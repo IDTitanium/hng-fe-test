@@ -44,6 +44,9 @@ body.app {
         background-color: #ffffff;
         color: #020202;
         font-weight: 900;
-        border: 1px dashed #131313;
+        border: {
+            top: 1px dashed #131313;
+            bottom: 1px dashed #131313;
+        }
     }
 }
