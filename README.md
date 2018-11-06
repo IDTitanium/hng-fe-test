@@ -12,7 +12,7 @@ The Project using Bootstrap Sass and to view the html page(s), follow the step b
 >PS: Make sure you have <b>npm</b> (node) and <b>sass</b> installed on your PC else 4 and 5 above would not work.
 
 When all is properly set, ```index.html``` should look like this:
-![index] (hng-index.PNG)
+![index] (./hng-index.PNG)
  
 For more information about Boostrap & Sass setup
 <a href="http://getbootstrap.com/docs/4.1/getting-started/theming/">For Bootstrap Theming</a>
