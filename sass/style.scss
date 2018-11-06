@@ -39,7 +39,7 @@ body.app {
     border: solid;
     background-color: d3d3d3;
 }
-.nav-link{
+.nav-item > a.nav-link{
     &:hover{
         background-color: #007bff;
     }
